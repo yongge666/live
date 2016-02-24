@@ -8,9 +8,9 @@
  */
 
 namespace Home\Controller;
-use Think\Controller;
+use Common\Controller\BaseApiController;
 
-class LiveController extends Controller{
+class LiveController extends BaseApiController{
     public function index(){
         echo 'hello';
     }

@@ -1,0 +1,13 @@
+[ 2016-02-24T14:48:24+08:00 ] ::1 /lrvp_live/application/home/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000779s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000850s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000978s ]
+SQL: SHOW COLUMNS FROM `lrvp_user` [ RunTime:0.0954s ]
+SQL: SELECT * FROM `lrvp_user` WHERE `username` = 'lee' LIMIT 1   [ RunTime:0.0048s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000845s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000958s ]
+
