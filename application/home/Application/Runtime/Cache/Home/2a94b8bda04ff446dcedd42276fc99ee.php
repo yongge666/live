@@ -8,21 +8,21 @@
     <!-- 上述3个meta标签*必须*放在最前面，任何其他内容都*必须*跟随其后！ -->
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="icon" href="/live/application/home/Public/assets/images/favicon-etah.ico">
+    <link rel="icon" href="/lrvp_live/application/home/Public/assets/images/favicon-etah.ico">
 
     <title>Carousel Template for Bootstrap</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="/live/application/home/Public/bootstrap3.3.5/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/lrvp_live/application/home/Public/bootstrap3.3.5/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
-    <script src="/live/application/home/Public/bootstrap3.3.5/js/html5shiv.min.js"></script>
-    <script src="/live/application/home/Public/bootstrap3.3.5/js/respond.min.js"></script>
+    <script src="/lrvp_live/application/home/Public/bootstrap3.3.5/js/html5shiv.min.js"></script>
+    <script src="/lrvp_live/application/home/Public/bootstrap3.3.5/js/respond.min.js"></script>
     <![endif]-->
 
     <!-- Custom styles for this template -->
-    <link href="/live/application/home/Public/assets/css/index.css" rel="stylesheet">
+    <link href="/lrvp_live/application/home/Public/assets/css/index.css" rel="stylesheet">
 </head>
 <!-- NAVBAR
 ================================================== -->
@@ -203,11 +203,11 @@
 <!-- Bootstrap core JavaScript
 ================================================== -->
 <!-- Placed at the end of the document so the pages load faster -->
-<script src="/live/application/home/Public/bootstrap3.3.5/js/juquery1.11.3.js"></script>
-<script src="/live/application/home/Public/bootstrap3.3.5/js/bootstrap.min.js"></script>
+<script src="/lrvp_live/application/home/Public/bootstrap3.3.5/js/juquery1.11.3.js"></script>
+<script src="/lrvp_live/application/home/Public/bootstrap3.3.5/js/bootstrap.min.js"></script>
 <!-- Just to make our placeholder images work. Don't actually copy the next line! -->
-<script src="/live/application/home/Public/assets/js/vendor/holder.min.js"></script>
+<script src="/lrvp_live/application/home/Public/assets/js/vendor/holder.min.js"></script>
 <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-<script src="/live/application/home/Public/bootstrap3.3.5/js/ie10-viewport-bug-workaround.js"></script>
+<script src="/lrvp_live/application/home/Public/bootstrap3.3.5/js/ie10-viewport-bug-workaround.js"></script>
 </body>
 </html>
